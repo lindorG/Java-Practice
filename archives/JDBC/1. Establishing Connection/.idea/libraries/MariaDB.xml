@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="MariaDB">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Development/Programs/MariaDB" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../Development/Programs/MariaDB" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../Development/Programs/MariaDB" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../Development/Programs/MariaDB" recursive="false" type="SOURCES" />
+  </library>
+</component>
